@@ -5,7 +5,6 @@ export my_dir=$(pwd)
 echo "Loading configuration..."
 source "${my_dir}"/config.sh
 
-fi
 
 # Email for git
 git config --global user.email "${GITHUB_EMAIL}"
