@@ -1,28 +1,28 @@
 #!/bin/bash
 
-export GITHUB_USER=""
-export GITHUB_EMAIL=""
+export GITHUB_USER="ahirearyan2"
+export GITHUB_EMAIL="ahirearyan2016@gmail.com"
 
-export device=""
+export device="o7prolte"
 
-export ROM=""
-export ROM_DIR=""
-export ROM_VERSION=""
+export ROM="lineage17.1"
+export ROM_DIR="/var/lib/rom/lineage"
+export ROM_VERSION="17.1"
 export official="false"
-export local_manifest_url=""
-export manifest_url=""
-export rom_vendor_name=""
-export branch=""
+export local_manifest_url="https://github.com/ahirearyan2/local_manifests/local_manifest.xml"
+export manifest_url="git://github.com/LineageOS/android.git"
+export rom_vendor_name="lineage"
+export branch="lineage-17.1"
 export bacon="bacon"
-export buildtype=""
-export clean=""
-export upload_recovery=""
+export buildtype="userdebug"
+export clean="installclean"
+export upload_recovery="false"
 
-export ccache=""
-export ccache_size=""
+export ccache="true"
+export ccache_size="69"
 
 export jenkins="false"
 
-export release_repo=""
+export release_repo="ahirearyan2/releases"
 
 export timezone="UTC"
