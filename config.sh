@@ -2,6 +2,7 @@
 
 export GITHUB_USER="ahirearyan2"
 export GITHUB_EMAIL="ahirearyan2016@gmail.com"
+export GITHUB_TOKEN=''
 
 export device="o7prolte"
 
